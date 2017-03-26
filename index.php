@@ -24,7 +24,7 @@
         <div class="row">
             <div class="span12">
                 <div class="logo"> <i class="fa fa-heartbeat fa-3x"></i> </div>
-                <h2>123 5 WebSmarts.ru</h2>
+                <h2>WebSmarts.ru</h2>
                 <p>Сервисы для своих</p>
                 <h3>Time management, diary and cash</h3>
 
